@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-tube-app/static/css/main.acf11f1d.css",
+    "main.js": "/my-tube-app/static/js/main.64771029.js",
+    "static/js/787.5f2f3aea.chunk.js": "/my-tube-app/static/js/787.5f2f3aea.chunk.js",
+    "index.html": "/my-tube-app/index.html",
+    "main.acf11f1d.css.map": "/my-tube-app/static/css/main.acf11f1d.css.map",
+    "main.64771029.js.map": "/my-tube-app/static/js/main.64771029.js.map",
+    "787.5f2f3aea.chunk.js.map": "/my-tube-app/static/js/787.5f2f3aea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acf11f1d.css",
+    "static/js/main.64771029.js"
+  ]
+}
